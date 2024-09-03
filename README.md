@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stéphan</h1>
 <h3 align="center">A passionate frontend developer from France 4y exp</h3>
 
-- 🤝 Currently looking for new job opportunities **don't hesitate to contact me**
+- 🤝 Currently looking for new freelance opportunities **don't hesitate to contact me**
 
-- 🌱 I’m currently learning **Python 🐍**
+- 🌱 I’m currently learning **TypeScript 🐍**
 
-- 🔭 I’m currently working at [Mashvp agency](https://mashvp.com/)
+- 🔭 I’m currently working in [Freelance]
 
 - 👨‍💻 All of my projects are available at [https://www.stephanflores.com/](https://www.stephanflores.com/)
 
