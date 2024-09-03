@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stéphan</h1>
-<h3 align="center">A passionate frontend developer from France 3y exp</h3>
+<h3 align="center">A passionate frontend developer from France 4y exp</h3>
 
 - 🤝 Currently looking for new job opportunities **don't hesitate to contact me**
 
