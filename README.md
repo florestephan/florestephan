@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React, NextJS, TailwindCss, and more ..**
 
-- 📫 How to reach me **hello@stephanflores.com or on linkedin lol**
+- 📫 How to reach me ** by mail or on linkedin **
 
 - ⚡ Fun fact **Oui oui baguette 🇫🇷**
 
